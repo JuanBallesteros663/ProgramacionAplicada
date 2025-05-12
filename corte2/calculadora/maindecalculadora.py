@@ -1,6 +1,6 @@
 # main.py
 
-from calculadora import Calculadora  #importamos la clase
+from calculadora import Calculadora  #importamos la clase.
 
 def main():
     calc = Calculadora()
